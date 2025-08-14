@@ -33,7 +33,9 @@ Escolhi criar um **organizador de tarefas no terminal** porque ele conecta diret
 ---
 
 ## 📦 Como usar
-1. Clone este repositório:
+1. Certifique-se de ter o Python instalado
+2. Baixe/clonar este repositório
+3. No terminal, execute:
 ```bash
 git clone https://github.com/SEU-USUARIO/taskflow.git
 
